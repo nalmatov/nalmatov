@@ -43,4 +43,4 @@
 
 ### FrontEnd Projects
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nalmatov&hide=contribs,prs&hide_title=true&theme=github_dark"/><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalmatov&hide=html&hide_title=true&layout=compact&langs_count=6&theme=github_dark" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nalmatov&hide=contribs,prs&hide_title=true&theme=github_dark"/><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalmatov&hide=html,css,scss&hide_title=true&layout=compact&langs_count=6&theme=github_dark" />
