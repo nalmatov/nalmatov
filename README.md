@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/nalmatov/nalmatov/master/github_banner.png)]()<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/nalmatov/nalmatov/master/github_banne.png)]()<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 
