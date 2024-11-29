@@ -11,7 +11,7 @@
 
 ### Technologies
 
-
+**Frontend:**
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=FFD62E)
@@ -20,6 +20,7 @@
 ![Redux](https://img.shields.io/badge/Redux-000?logo=redux&logoColor=764ABC)
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933)
 
+**Backend:**
 ![Django](https://img.shields.io/badge/Django-000?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=336791)
@@ -27,6 +28,7 @@
 ![Redis](https://img.shields.io/badge/Redis-000?logo=redis&logoColor=DC382D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=47A248)
 
+**Devops:**
 ![AWS](https://img.shields.io/badge/AWS-000?logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/Nginx-000?logo=nginx&logoColor=009639)
