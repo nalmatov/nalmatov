@@ -16,7 +16,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=FFD62E)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)](#)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#)
+[![React Router](https://img.shields.io/badge/React_Router-000?logo=react-router&logoColor=CA4245)](#)
 [![Redux](https://img.shields.io/badge/Redux-000?logo=redux&logoColor=764ABC)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933)](#)
 
