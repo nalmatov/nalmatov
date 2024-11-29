@@ -2,12 +2,12 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&bgColor=000)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
-[![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=white)](#)
+[![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=white)](#)
+[![MDX](https://img.shields.io/badge/MDX-000?logo=mdx&logoColor=white)](#)
 
 ### Technologies
 
@@ -26,7 +26,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
 
-<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
