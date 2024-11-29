@@ -2,12 +2,12 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)](#)
-[![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1)](#)
+[![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=CB171E)](#)
+[![MDX](https://img.shields.io/badge/MDX-000?logo=mdx&logoColor=1B1F24)](#)
 
 ### Technologies
 
