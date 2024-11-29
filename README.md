@@ -12,11 +12,11 @@
 ### Technologies
 
 
-[![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB)](#)
+[![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)](#)
-[![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=FFD62E)](#)
+[![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white)](#)
 
 [![Django](https://img.shields.io/badge/Django-000?logo=django&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)](#)
