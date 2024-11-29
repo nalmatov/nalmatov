@@ -2,21 +2,21 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=white)](#)
-[![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=white)](#)
-[![MDX](https://img.shields.io/badge/MDX-000?logo=mdx&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)](#)
+[![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=white)](#)
 
 ### Technologies
 
 
-[![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)](#)
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)](#)
-[![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=FFD62E)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933)](#)
 
 [![Django](https://img.shields.io/badge/Django-000?logo=django&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)](#)
