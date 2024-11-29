@@ -7,6 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6)
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1)
 ![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=CB171E)
+![Sass](https://img.shields.io/badge/Sass-000?logo=sass&logoColor=CC6699)
 ![MDX](https://img.shields.io/badge/MDX-000?logo=mdx&logoColor=1B1F24)
 
 ### Technologies
