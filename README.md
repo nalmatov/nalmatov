@@ -1,5 +1,6 @@
 [![](https://raw.githubusercontent.com/nalmatov/nalmatov/main/github_banner.png)](#)<!-- If you want the template for my gif, email me! -->
 
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB)
@@ -8,6 +9,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1)
 ![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=CB171E)
 ![MDX](https://img.shields.io/badge/MDX-000?logo=mdx&logoColor=1B1F24)
+
 
 ### Technologies
 
@@ -37,17 +39,5 @@
 ![Nginx](https://img.shields.io/badge/Nginx-000?logo=nginx&logoColor=009639)
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=FCC624)
 
-<!-- ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
--->
-
-### FrontEnd Projects
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nalmatov&hide=contribs,prs&hide_title=true&theme=github_dark"/><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalmatov&hide=html,css,scss&hide_title=true&layout=compact&langs_count=6&theme=github_dark" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nalmatov&hide_title=true&theme=github_dark"/><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalmatov&hide=html,css,scss&hide_title=true&layout=compact&langs_count=6&theme=github_dark" />
