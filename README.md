@@ -1,6 +1,5 @@
 [![](https://raw.githubusercontent.com/nalmatov/nalmatov/main/github_banner.png)](#)<!-- If you want the template for my gif, email me! -->
 
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB)
@@ -9,7 +8,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1)
 ![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=CB171E)
 ![MDX](https://img.shields.io/badge/MDX-000?logo=mdx&logoColor=1B1F24)
-
 
 ### Technologies
 
@@ -38,6 +36,5 @@
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/Nginx-000?logo=nginx&logoColor=009639)
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=FCC624)
-
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nalmatov&hide_title=true&theme=github_dark"/><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalmatov&hide=html,css,scss&hide_title=true&layout=compact&langs_count=6&theme=github_dark" />
