@@ -12,7 +12,7 @@
 ### Technologies
 
 
-![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB)](#)
+[![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=FFD62E)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)](#)
