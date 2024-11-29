@@ -29,6 +29,7 @@
 
 [![AWS](https://img.shields.io/badge/AWS-000?logo=amazon-aws&logoColor=FF9900)](#)
 [![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED)](#)
+[![Nginx](https://img.shields.io/badge/Nginx-000?logo=nginx&logoColor=009639)](#)
 [![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=FCC624)](#)
 
 <!-- ### Full Stack Projects
