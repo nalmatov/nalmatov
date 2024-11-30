@@ -38,4 +38,4 @@
 ![Nginx](https://img.shields.io/badge/Nginx-000?logo=nginx&logoColor=009639)
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=FCC624)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nalmatov&hide_title=true&theme=github_dark"/><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalmatov&hide=html,css,scss&hide_title=true&layout=compact&langs_count=6&theme=github_dark" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nalmatov&hide_title=true&theme=github_dark"/>  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalmatov&hide=html,css,scss&hide_title=true&layout=compact&langs_count=6&theme=github_dark" />
