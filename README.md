@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-000?logo=vite&logoColor=FFD62E)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-000?logo=react-router&logoColor=CA4245)
 ![Redux](https://img.shields.io/badge/Redux-000?logo=redux&logoColor=764ABC)
@@ -25,7 +26,6 @@
 **Backend:**
 
 ![Django](https://img.shields.io/badge/Django-000?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=336791)
 ![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite&logoColor=003B57)
 ![Redis](https://img.shields.io/badge/Redis-000?logo=redis&logoColor=DC382D)
