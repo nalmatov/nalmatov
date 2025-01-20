@@ -1,7 +1,9 @@
 [![](https://raw.githubusercontent.com/nalmatov/nalmatov/main/github_banner.png)](#)<!-- If you want the template for my gif, email me! -->
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/nalmatov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nalmatov)
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-%23D3222A.svg?logo=hh&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](#)
 
 ### Languages
 
