@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nalmatov)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-%23D3222A.svg?logo=hh&logoColor=white)](https://bishkek.headhunter.kg/resume/d20c7259ff0d5f22f60039ed1f724b4a30737a)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/nalmatov)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/996777145494)
 
 ### Languages
 
