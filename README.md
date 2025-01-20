@@ -1,5 +1,8 @@
 [![](https://raw.githubusercontent.com/nalmatov/nalmatov/main/github_banner.png)](#)<!-- If you want the template for my gif, email me! -->
 
+### Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nalmatov) 
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB)
