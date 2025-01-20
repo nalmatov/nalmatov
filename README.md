@@ -1,17 +1,6 @@
 [![](https://raw.githubusercontent.com/nalmatov/nalmatov/main/github_banner.png)](#)<!-- If you want the template for my gif, email me! -->
 
 ### Socials
-<a href="https://linkedin.com/in/nalmatov" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/HeadHunter-%23D3222A.svg?logo=hh&logoColor=white" alt="HeadHunter">
-</a>
-
-<a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white" alt="Telegram">
-</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nalmatov)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-%23D3222A.svg?logo=hh&logoColor=white)](https://bishkek.headhunter.kg/resume/d20c7259ff0d5f22f60039ed1f724b4a30737a)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/nalmatov)
